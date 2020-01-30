@@ -1,0 +1,12 @@
+C:\Users\mert\Desktop\Lab8-master\Lab8-master\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\mert\Desktop\Lab8-master\Lab8-master\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\mert\Desktop\Lab8-master\Lab8-master\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\mert\Desktop\Lab8-master\Lab8-master\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\mert\Desktop\Lab8-master\Lab8-master\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\mert\Desktop\Lab8-master\Lab8-master\Lab8\Lab8\obj\Debug\Lab8.pdb
+G:\Genel\Genel\Nesneye Yönelik\Lablar\Lab8_Cozum-master\Lab8_Cozum-master\Lab8\Lab8\bin\Debug\Lab8.exe
+G:\Genel\Genel\Nesneye Yönelik\Lablar\Lab8_Cozum-master\Lab8_Cozum-master\Lab8\Lab8\bin\Debug\Lab8.pdb
+G:\Genel\Genel\Nesneye Yönelik\Lablar\Lab8_Cozum-master\Lab8_Cozum-master\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+G:\Genel\Genel\Nesneye Yönelik\Lablar\Lab8_Cozum-master\Lab8_Cozum-master\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+G:\Genel\Genel\Nesneye Yönelik\Lablar\Lab8_Cozum-master\Lab8_Cozum-master\Lab8\Lab8\obj\Debug\Lab8.exe
+G:\Genel\Genel\Nesneye Yönelik\Lablar\Lab8_Cozum-master\Lab8_Cozum-master\Lab8\Lab8\obj\Debug\Lab8.pdb
